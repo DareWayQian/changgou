@@ -15,6 +15,9 @@
     </description>
 
     <!--依赖-->
+    <!--依赖,创建一个微服务,就要相应的创建它的api 用来被当
+        前微服务调用,主要保存javaBean
+     -->
     <dependencies>
         <dependency>
             <groupId>com.changgou</groupId>
