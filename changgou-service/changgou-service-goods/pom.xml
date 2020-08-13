@@ -10,7 +10,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>changgou-service-goods</artifactId>
-    <description>畅购商品微服务</description>
+    <description>畅购商品微服务
+        商品微服务工程，主要实现对changgou_goos 的管理
+    </description>
 
     <!--依赖-->
     <dependencies>
